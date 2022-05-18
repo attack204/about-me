@@ -6,7 +6,7 @@ experience:
   - title: Backend Developer With Go
     company: Beijing ByteDance Techonoloy Company 
     company_url: "https://www.bytedance.com"
-    company_logo: org-gc
+    company_logo: bytedance
     location: Beijing
     date_start: 2022-01-05
     date_end: 2022-03-05
@@ -17,7 +17,7 @@ experience:
   - title: Backend Developer With Java  
     company: Beijing Loh Company
     company_url: "http://loh.bj.cn/loh1/index.html"
-    company_logo: org-x
+    company_logo: loh
     location: Beijing
     date_start: 2020-07-01
     date_end: 2020-09-10
