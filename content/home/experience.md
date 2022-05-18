@@ -1,6 +1,5 @@
 ---
 widget: experience
-active: true
 date_format: Jan 2006
 experience:
   - title: Backend Developer With Go
@@ -28,11 +27,5 @@ weight: 40
 title: Experience
 subtitle: ""
 design:
-  columns: ""
-  background:
-    color: ""
-    gradient_start: ""
-    gradient_end: ""
-    text_color_light: false
-    image_darken: ""
+  columns: "" 
 ---
