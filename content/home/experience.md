@@ -30,9 +30,9 @@ subtitle: ""
 design:
   columns: ""
   background:
-    color: "#000000"
+    color: ""
     gradient_start: ""
     gradient_end: ""
-    text_color_light: true
+    text_color_light: false
     image_darken: ""
 ---
