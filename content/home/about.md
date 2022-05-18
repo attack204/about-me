@@ -1,6 +1,6 @@
 ---
 widget: Biography
-widget_id: Biography
+widget_id: about
 headless: true
 weight: 20
 title: attack204
