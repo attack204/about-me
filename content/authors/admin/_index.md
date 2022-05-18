@@ -23,10 +23,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello, I am attack204. Now studying at Harbin Institute of Technology at Weihai
+✨Hello, I am attack204. Now studying at Harbin Institute of Technology at Weihai
 
 I love backend development with Java、C++ and Go.
 
-Contact me Or make friends with me  by QQ: 757394026 / WeChat: attack204
+💓Contact me or make friends with me  by QQ: 757394026 / WeChat: attack204
 
 Please leave brief information about you 
