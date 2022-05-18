@@ -28,7 +28,7 @@ widget_id: Experience
 headless: true
 weight: 40
 title: Experience
-subtitle: null
+subtitle: Experience
 design:
   columns: ""
   background:
