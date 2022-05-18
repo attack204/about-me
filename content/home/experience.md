@@ -4,8 +4,8 @@ active: true
 date_format: Jan 2006
 experience:
   - title: Backend Developer With Go
-    company: Beijing ByteDance Techonoloy Company 
-    company_url: "https://www.bytedance.com"
+    company: Beijing ByteDance Techonoloy Company
+    company_url: https://www.bytedance.com
     company_logo: bytedance
     location: Beijing
     date_start: 2022-01-05
@@ -14,9 +14,9 @@ experience:
         Responsibilities include:
         * Juejin OJ Deploy
         * Juejin Sitemap Develop And Project Launch
-  - title: Backend Developer With Java  
+  - title: Backend Developer With Java
     company: Beijing Loh Company
-    company_url: "http://loh.bj.cn/loh1/index.html"
+    company_url: http://loh.bj.cn/loh1/index.html
     company_logo: loh
     location: Beijing
     date_start: 2020-07-01
@@ -26,11 +26,11 @@ widget_id: Experience
 headless: true
 weight: 40
 title: Experience
-subtitle: Experience
+subtitle: ""
 design:
   columns: ""
   background:
-    color: ""
+    color: "#000000"
     gradient_start: ""
     gradient_end: ""
     text_color_light: true
