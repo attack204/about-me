@@ -30,11 +30,11 @@ weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: ""
   background:
-    color: "121234"
-    gradient_start: "123412341234"
-    gradient_end: "1123"
+    color: ""
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
     image_darken: ""
 ---
