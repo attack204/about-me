@@ -16,7 +16,9 @@ organizations:
   - name: Harbin Institute of Technology
     url: https://www.hitwh.edu.cn/
 education:
-  courses: []
+  courses:
+    - course: " B.Eng in Software Enginerring, 2024"
+      institution: Harbin Institute of Technology
 email: ""
 superuser: true
 highlight_name: true
