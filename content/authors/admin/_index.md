@@ -1,6 +1,6 @@
 ---
 title: attack204
-role: Professor of Artificial Intelligence
+role: Backend Developer
 avatar_filename: avatar-11.30.51.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
