@@ -24,8 +24,8 @@ experience:
 widget_id: Experience
 headless: true
 weight: 40
-title: Experience
+title: Internship Experience
 subtitle: ""
 design:
-  columns: "" 
+  columns: ""
 ---
