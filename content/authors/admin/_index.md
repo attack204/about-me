@@ -27,6 +27,6 @@ highlight_name: true
 
 I love backend development with Java、C++ and Go.
 
-💓Contact me or make friends with me  by QQ: 757394026 / WeChat: attack204
+💓Contact me or make friends with me  by QQ: 757394026 / WeChat: L15006856731
 
 Please leave brief information about you 
