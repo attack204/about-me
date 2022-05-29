@@ -10,7 +10,7 @@ experience:
     date_start: 2022-07-20
     date_end: 
     description: |-2
-        Take part in [openGauss](https://opengauss.org/zh/) Project
+        Take part in [openGauss](https://opengauss.org/zh/) Project \n
         Unstart 
   - title: Backend Developer With Go
     company: Beijing ByteDance Techonoloy CO.LTD.
