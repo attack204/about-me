@@ -2,8 +2,17 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Database Developer With C++
+    company: Huawei Technologies CO.LID.
+    company_url: https://www.huawei.com/en/
+    company_logo: huawei
+    location: Hangzhou
+    date_start: 2022-07-20
+    date_end: 
+    description: |-2
+        Unstart 
   - title: Backend Developer With Go
-    company: Beijing ByteDance Techonoloy Company
+    company: Beijing ByteDance Techonoloy CO.LTD.
     company_url: https://www.bytedance.com
     company_logo: bytedance
     location: Beijing
