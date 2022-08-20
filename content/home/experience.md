@@ -2,16 +2,16 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Database Developer With C++
+  - title: JVM Research (C++)
     company: Huawei Technologies CO.LID.
     company_url: https://www.huawei.com/en/
     company_logo: huawei
     location: Hangzhou
     date_start: 2022-07-20
-    date_end: 
+    date_end: 2022-8-20
     description: 
-        Take part in [openGauss](https://opengauss.org/zh/) Project <br>
-        Unstart 
+        Explore the JIT、MethodInstall and Deoptimization Implement In HotSpot <br>
+        To find out why JVM modifies an assembly instruction "bl x" to "bl y" on a fixed PC during runtime. 
   - title: Backend Developer With Go
     company: Beijing ByteDance Techonoloy CO.LTD.
     company_url: https://www.bytedance.com
@@ -22,15 +22,7 @@ experience:
     description: |-2
         Responsibilities include:
         * Juejin OJ Deploy
-        * Juejin Sitemap Develop And Project Launch
-  - title: Backend Developer With Java
-    company: Beijing Loh Company
-    company_url: http://loh.bj.cn/loh1/index.html
-    company_logo: loh
-    location: Beijing
-    date_start: 2021-07-01
-    date_end: 2021-09-10
-    description: Take part in the BoBo Platform architecture design.
+        * [Juejin Sitemap](https://juejin.cn/map-author-A-1) develop
 widget_id: Experience
 headless: true
 weight: 40

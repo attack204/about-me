@@ -26,19 +26,11 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-04-18'
-    description: 'The 45th ICPC Asia East Continent Final Contest'
+    description: '32/289 Place in The 45th ICPC Asia East Continent Final Contest'
     organization: ICPC
     organization_url: "https://board.xcpcio.com/icpc/2020/ec-final" 
     title: Silver Medal, The 45th ICPC Asia East Continent Final Contest
     url: 'https://board.xcpcio.com/icpc/2020/ec-final' 
-  - certificate_url: 
-    date_end: ''
-    date_start: '2021-04-03'
-    description: 'The 45th ICPC Asia Kunming Regional Programming Contest'
-    organization: ICPC
-    organization_url: "https://board.xcpcio.com/icpc/2020/kunming" 
-    title: Silver Medal, The 45th ICPC Asia Kunming Regional Programming Contest 
-    url: 'https://board.xcpcio.com/icpc/2020/kunming' 
 
 design:
   columns: '2'

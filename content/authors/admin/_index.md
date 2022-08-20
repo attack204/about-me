@@ -1,10 +1,10 @@
 ---
 title: attack204
-role: Backend Developer
+role: Developer
 avatar_filename: avatar-11.30.51.jpeg
 bio: ""
 interests:
-  - Java、C++、Go、SystemDesign、Database
+  - SystemDesign、Database
 social:
   - icon: github
     icon_pack: fab
@@ -25,8 +25,4 @@ highlight_name: true
 ---
 ✨Hello, I am attack204. Now studying at Harbin Institute of Technology at Weihai
 
-I love backend development with Java、C++ and Go.
-
-💓Contact me or make friends with me  by QQ: 757394026 / WeChat: L15006856731
-
-Please leave brief information about you 
+💓 I love software development in particular Database
