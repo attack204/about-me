@@ -10,7 +10,7 @@ experience:
     date_end: 
     description: 
         Design a new GC algorithm on ZNS SSD to accelerate RocksDB Compact Operation
-widget_id: Experience
+widget_id: research 
 headless: true
 weight: 40
 title: Research Experience
