@@ -9,9 +9,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/attack204
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E9%AB%98%E5%90%89-%E5%88%98-246b8b231/
 organizations:
   - name: Harbin Institute of Technology
     url: https://www.hitwh.edu.cn/
