@@ -2,14 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: RocksDB Research (C++)
+  - title: RocksDB Research
     company: Arizona State University
     company_url: https://www.asu.edu/
     company_logo: asu
     date_start: 2022-08-20
     date_end: 
     description: 
-        Design a new GC algorithm on ZNS SSD to accelerate RocksDB Compact Operation
+      Research on new generation storage devices
 widget_id: research 
 headless: true
 weight: 40

@@ -4,7 +4,7 @@ role: Developer
 avatar_filename: avatar-11.30.51.jpeg
 bio: ""
 interests:
-  - SystemDesign、Database
+  - SystemDesign
 social:
   - icon: github
     icon_pack: fab
@@ -22,4 +22,4 @@ highlight_name: true
 ---
 ✨Hello, I am attack204. Now studying at Harbin Institute of Technology at Weihai
 
-💓 I love software development in particular Database
+💓 I love software development 
