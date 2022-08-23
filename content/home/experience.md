@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: JVM Research
+  - title: JVM Researcher
     company: Huawei Technologies CO.LID.
     company_url: https://www.huawei.com/en/
     company_logo: huawei
