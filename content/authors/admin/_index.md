@@ -15,6 +15,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-✨Hello, I am attack204. Now studying at Harbin Institute of Technology at Weihai
+✨Hello, I am attack204.
 
 💓 I love software development and system research
