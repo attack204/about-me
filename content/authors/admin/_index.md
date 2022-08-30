@@ -1,6 +1,5 @@
 ---
 title: attack204
-role: Developer
 avatar_filename: avatar-11.30.51.jpeg
 bio: ""
 social:
@@ -17,4 +16,4 @@ highlight_name: true
 ---
 ✨Hello, I am attack204.
 
-💓 I love software development and system research
+💓 I love software develop and system research

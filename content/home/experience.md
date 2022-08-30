@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: JVM Researcher
+  - title: JVM Research
     company: Huawei Technologies CO.LID.
     company_url: https://www.huawei.com/en/
     company_logo: huawei
@@ -11,7 +11,7 @@ experience:
     date_end: 2022-08-20
     description: 
         Explore the JIT、MethodInstall and Deoptimization Implement In HotSpot <br>
-  - title: Backend Developer
+  - title: Backend Develop
     company: Beijing ByteDance Techonoloy CO.LTD.
     company_url: https://www.bytedance.com
     company_logo: bytedance
