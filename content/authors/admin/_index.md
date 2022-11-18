@@ -17,6 +17,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-✨Hello, I am attack204.
+✨Hello, I am attack204 whose name is Gaoji Liu, in Chinese 刘高吉
 
-💓 I love software develop and system research
+💓 I love software development and system research
