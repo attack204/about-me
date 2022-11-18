@@ -11,7 +11,7 @@ experience:
     date_end: 2022-08-20
     description: 
         Explore the JIT、MethodInstall and Deoptimization In HotSpot and get their profiling information by Linux perf tools.
-  - title: Backend Develop
+  - title: Backend Development
     company: Beijing ByteDance Techonoloy CO.LTD.
     company_url: https://www.bytedance.com
     company_logo: bytedance
