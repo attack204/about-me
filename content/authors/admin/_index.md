@@ -1,6 +1,6 @@
 ---
 title: attack204
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: github
