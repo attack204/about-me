@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: JVM Research
+  - title: CPU Benchmark(Computer Architecture Related)
     company: Huawei Technologies CO.LID.
     company_url: https://www.huawei.com/en/
     company_logo: huawei
@@ -10,7 +10,7 @@ experience:
     date_start: 2022-07-20
     date_end: 2022-08-20
     description: 
-        Explore the JIT、MethodInstall and Deoptimization Implement In HotSpot <br>
+        Explore the JIT、MethodInstall and Deoptimization implementation In HotSpot and get their profiling information use Linux perf tool
   - title: Backend Develop
     company: Beijing ByteDance Techonoloy CO.LTD.
     company_url: https://www.bytedance.com
