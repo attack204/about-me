@@ -9,7 +9,7 @@ experience:
     date_start: 2022-08-20
     date_end: 
     description: 
-      Research on new generation storage devices
+      Research on new generation storage devices [ZNS SSD](https://zonedstorage.io/)
 widget_id: research 
 headless: true
 weight: 40
