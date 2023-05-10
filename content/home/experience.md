@@ -2,6 +2,15 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: DB Kernel Dev
+    company: Alibaba Cloud.
+    company_url: https://www.alibabacloud.com/
+    company_logo: alibaba
+    location: Hangzhou
+    date_start: 2023-05-30
+    date_end: 2023-05-30
+    description: 
+        * Participate in developing open source distributed databases [PolarDB-X](https://github.com/polardb/polardbx-sql)
   - title: CPU Benchmark(Computer Architecture Related)
     company: Huawei Technologies CO.LID.
     company_url: https://www.huawei.com/en/
@@ -10,7 +19,7 @@ experience:
     date_start: 2022-07-20
     date_end: 2022-08-20
     description: 
-        Explore the JIT、MethodInstall and Deoptimization In HotSpot and get their profiling information by Linux perf tools.
+        Explore the JIT、MethodInstall and Deoptimization In HotSpot and get their profiling information by Linux perf tools. Mentor [Shunning Jiang](https://scholar.google.com/citations?user=j4ubHBwAAAAJ&hl=zh-CN&oi=ao)
   - title: Backend Development
     company: Beijing ByteDance Techonoloy CO.LTD.
     company_url: https://www.bytedance.com
