@@ -9,7 +9,7 @@ experience:
     location: Hangzhou
     date_start: 2023-05-30
     date_end: 2023-05-30
-    description: 
+    description: |-2
         * Participate in developing open source distributed databases [PolarDB-X](https://github.com/polardb/polardbx-sql)
   - title: CPU Benchmark(Computer Architecture Related)
     company: Huawei Technologies CO.LID.
