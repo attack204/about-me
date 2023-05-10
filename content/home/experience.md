@@ -19,8 +19,7 @@ experience:
     date_start: 2022-07-20
     date_end: 2022-08-20
     description: 
-        Explore the JIT、MethodInstall and Deoptimization In HotSpot and get their profiling information by Linux perf tools. 
-        
+        Explore the JIT、MethodInstall and Deoptimization In HotSpot and get their profiling information by Linux perf tools. \\
         Mentored by [Shunning Jiang](https://scholar.google.com/citations?user=j4ubHBwAAAAJ&hl=zh-CN&oi=ao)
   - title: Backend Development
     company: Beijing ByteDance Techonoloy CO.LTD.
