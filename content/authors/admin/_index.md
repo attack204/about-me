@@ -19,6 +19,5 @@ highlight_name: true
 ---
 ✨Hello, I am attack204.  
 
-我正在参加2023年的秋招，方向为数据库内核开发
+Nice to meet you and my WeChat: L15006856731.
 
-欢迎联系我一起交流！微信：L15006856731
