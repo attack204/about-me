@@ -17,7 +17,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-✨Hello, I am attack204.  
 
-Nice to meet you and my WeChat: L15006856731.
+✨Nice to meet you and my WeChat: L15006856731.
 
